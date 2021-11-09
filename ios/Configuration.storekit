@@ -1,0 +1,84 @@
+{
+  "identifier" : "F97AE29F",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_askToBuyEnabled" : false
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "876C60C5",
+      "localizations" : [
+
+      ],
+      "name" : "subscriptions",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "10.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "9961AF63",
+          "introductoryOffer" : {
+            "displayPrice" : "2.99",
+            "internalID" : "705D0C58",
+            "paymentMode" : "payUpFront",
+            "subscriptionPeriod" : "P1M"
+          },
+          "localizations" : [
+            {
+              "description" : "Access THT with advance capabilities",
+              "displayName" : "THT Pro",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.applepaydemo.thtpro",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "THT Pro",
+          "subscriptionGroupID" : "876C60C5",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "80.99",
+          "familyShareable" : false,
+          "groupNumber" : 2,
+          "internalID" : "11872288",
+          "introductoryOffer" : {
+            "internalID" : "5ABD993D",
+            "paymentMode" : "free",
+            "subscriptionPeriod" : "P1M"
+          },
+          "localizations" : [
+            {
+              "description" : "Access THT and do more with advance features",
+              "displayName" : "THT Plus",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.applepaydemo.thtplus",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "THT Plus",
+          "subscriptionGroupID" : "876C60C5",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "subscriptionOffersKeyPair" : {
+    "id" : "9847B085",
+    "privateKey" : "MIGTAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBHkwdwIBAQQgpDdINI4RhQqSf4jMXnAPLT6ZAHTjW2Rr2a9/MjmB+yygCgYIKoZIzj0DAQehRANCAAQzbgYWBKcYqX1DbHENzvV4AtV2olLjCq0mZDNW4pbylh7wSmi3Kx8b+2ajFvPAcKqNnzzXW7Hsj2XaFm62bHZP"
+  },
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}
